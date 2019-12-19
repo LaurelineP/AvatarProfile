@@ -1,0 +1,16 @@
+{
+  "name": "profile-avatar",
+  "version": "1.0.0",
+  "description": "Personnal Avatar Profile",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "rm -rf ./public && sass styles.scss ./public/styles.css"
+  },
+  "keywords": [
+    "HTML",
+    "CSS"
+  ],
+  "author": "Laureline Paris",
+  "license": "ISC"
+}

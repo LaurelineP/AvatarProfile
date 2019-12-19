@@ -1,4 +1,4 @@
-#Personal Avatar Profile
+# Personal Avatar Profile - [DEMO](https://laurelinep.github.io/AvatarProfile/)
 
 ![Avatar CSS](avatar-css.gif)
 

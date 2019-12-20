@@ -1,6 +1,6 @@
 # Personal Avatar Profile - [DEMO](https://laurelinep.github.io/AvatarProfile/)
 
-![Avatar CSS](avatar-css.gif)
+<img src="./avatar-css.gif" height="450" alt="Avatar GIF" style="margin: 0 35%">
 
 Haven't you notice how a representationnal picture is requested ? ( resumes, linkedIn, forums, etc... )
 Let's agree to disagree on this one !

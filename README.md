@@ -1,4 +1,5 @@
 # Personal Avatar Profile - [DEMO](https://laurelinep.github.io/AvatarProfile/)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass)  
 
 <img src="./avatar-css.gif" height="450" alt="Avatar GIF" style="margin: 0 35%">
 
